@@ -1,0 +1,25 @@
+{
+  "name": "glenderm04-my-first-component-library",
+  "version": "1.1.9",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "GlenderM04",
+  "license": "ISC",
+  "description": "Una biblioteca de componentes en Next.js sin TypeScript. \n Componentes: \n - Header \n - Navbar",
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "next": "^15.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.25.9",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.25.9"
+  }
+}
