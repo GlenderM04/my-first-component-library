@@ -5,6 +5,8 @@ Bienvenido a **mi primera biblioteca de componentes de Next.js**. Esta bibliotec
 
 Cabe detacar que este es una libreria de ejemplo que utilizo para uso personal, no es una librería para uso normal. Sin emargo, si deseas usarla espero que te sea útil en tus proyectos.
 
+Puedes ver una implementación de estos componentes en: https://github.com/GlenderM04/testing-my-component-library
+
 ## Características
 
 - **Componentes Reutilizables**: Incluye una variedad de componentes que puedes usar en tus proyectos Next.js.
